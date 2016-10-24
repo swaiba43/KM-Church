@@ -10,9 +10,7 @@
   <body>
 	
 	<?php
-	
 		include('scripts/header.php');
-	
 	?>
 	
 
@@ -200,7 +198,7 @@
 			<p style="text-align: center;"><a href="http://mkombozibank.com/" target="_blank"><img Style="Width:20%;" src="images/media3.png"></a></p>
 			<p>Mkombozi Commercial Bank Plc (MKCB) started as an initiative of the Tanzania Episcopal Conference in 2009 to establish a
 			commercial bank with the main objective of serving and supporting the emerging Tanzanian businesses for provision of financial services.
-			Mkombozi Commercial Bank’s target markets are small and medium sized entrepreneurs, companies, SACCOS, social enterprises such as schools,
+			Mkombozi Commercial Bankâ€™s target markets are small and medium sized entrepreneurs, companies, SACCOS, social enterprises such as schools,
 			universities and corporations.MKCB serves the need of growing companies, middle-market and large corporations, institutional investors,
 			financial institutions and government entities.
 			</p><br>
