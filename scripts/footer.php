@@ -8,10 +8,11 @@
       </h1><br>
      
 	 <h4>
-        <a href="#"><i  style="color:#d1e0e0;" class="fa fa-twitter" aria-hidden="true"></i></a> 
+        <a href="#"><i  style="color:#d1e0e0;" class="fa fa-twitter" aria-hidden="true"></i></a>
         <a href="#"><i  style="color:#d1e0e0;" class="fa fa-facebook" aria-hidden="true"></i></a>
         <a href="#"><i  style="color:#d1e0e0;" class="fa fa-google-plus" aria-hidden="true"></i></a>
         <a href="#"><i  style="color:#d1e0e0;" class="fa fa-pinterest" aria-hidden="true"></i></a>
+        <a href="#"><i  style="color:#d1e0e0;" class="fa fa-TA" aria-hidden="true"></i></a>
 
 		<br><br><br>
 		
@@ -21,19 +22,16 @@
 	 </div>
 	 
 	 <div class="row" style="background-color:#555555;margin:0px;border-top-style:solid;border-top-width:0.5px;border-top-color:black;">
-<div class="col-lg-12">
+        <div class="col-lg-12">
 
-&copy; <span id="copyright-year">2016</span> All Rights Reserved By Yoteyote <br> Website designed by Lastnode under <a href="http://yoteyote.com" style="color:#ff0404;"><span style="color:#ff0404;">Yoteyote Community</span></a>
-</div>
-</div>
+            &copy; <span id="copyright-year">2016</span> All Rights Reserved By Yoteyote <br> Website designed by Lastnode under <a href="http://yoteyote.com" style="color:#ff0404;"><span style="color:#ff0404;">Yoteyote Community</span></a>
+        </div>
+     </div>
      
      
     <!--<div class="clear"></div>
   </div>  -->
 </footer>
-
-
-
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
